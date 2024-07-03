@@ -54,6 +54,17 @@ The main components in this project are:
 
 # screenshots:
 
+![s](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/ba8d3ddf-4105-4345-9f67-a3a45b46796a)
+![Screenshot (1)](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/33f08db2-0ab3-4f60-8fd5-880fc9cbce86)
+![Screenshot (2)](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/82c052f5-4b42-46ac-b148-cc37080410df)
+![Screenshot (3)](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/f4d847e9-70ed-4373-a12f-ca046887b810)
+![Screenshot (4)](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/611d52e2-56a9-46ce-9cb6-31c7df7b0e1e)
+![Screenshot (5)](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/37b0b656-7262-4f3a-9c0c-91d9d46a7f4d)
+![Screenshot (6)](https://github.com/Esinam01/rn-assignment6-11296788/assets/169995746/01401e0d-0b04-4cce-b4bb-c6aae76a0208)
+
+
+
+
 
 
 
